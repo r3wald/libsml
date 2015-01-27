@@ -1,5 +1,3 @@
-CFLAGS = @CFLAGS@ @DEFS@  -I@top_srcdir@ 
-
 all:
 	@$(MAKE) -C sml
 	@$(MAKE) -C examples
