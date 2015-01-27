@@ -16,7 +16,7 @@
 // You should have received a copy of the GNU General Public License
 // along with libSML.  If not, see <http://www.gnu.org/licenses/>.
 
-
+#include "config.h"
 #include <sml/sml_set_proc_parameter_request.h>
 
 sml_set_proc_parameter_request *sml_set_proc_parameter_request_init() {

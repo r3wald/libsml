@@ -16,7 +16,7 @@
 // You should have received a copy of the GNU General Public License
 // along with libSML.  If not, see <http://www.gnu.org/licenses/>.
 
-
+#include "config.h"
 #include <sml/sml_message.h>
 #include <sml/sml_number.h>
 #include <sml/sml_octet_string.h>

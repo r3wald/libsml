@@ -16,7 +16,7 @@
 // You should have received a copy of the GNU General Public License
 // along with libSML.  If not, see <http://www.gnu.org/licenses/>.
 
-
+#include "config.h"
 #include <sml/sml_crc16.h>
 
 #define PPPINITFCS16 0xffff	// initial FCS value

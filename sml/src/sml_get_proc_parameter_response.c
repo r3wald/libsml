@@ -16,6 +16,7 @@
 // You should have received a copy of the GNU General Public License
 // along with libSML.  If not, see <http://www.gnu.org/licenses/>.
 
+#include "config.h"
 #include <sml/sml_get_proc_parameter_response.h>
 #include <stdio.h>
 
